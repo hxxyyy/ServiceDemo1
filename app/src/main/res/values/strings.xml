@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ServiceDemo</string>
+    <string name="go">启动服务</string>
+    <string name="stop">停止服务</string>
+    <string name="bang">绑定服务</string>
+    <string name="jie">解绑服务</string>
+    <string name="goService">启动前台服务</string>
+    <string name="stopSerivc">停止前台服务</string>
+    <string name="intentService">启动intentService</string>
+    <string name="dq">当前播放音乐:</string>
+</resources>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.edu.niit.servicedemo.MainActivity">
+
+    <Button
+        android:id="@+id/go"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/go"
+        android:textSize="20sp"/>
+    <Button
+        android:id="@+id/stop"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/stop"
+        android:textSize="20sp"/>
+    <Button
+        android:id="@+id/bang"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/bang"
+        android:textSize="20sp"/>
+    <Button
+        android:id="@+id/jie"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/jie"
+        android:textSize="20sp"/>
+    <Button
+        android:id="@+id/goService"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/goService"
+        android:textSize="20sp"/>
+    <Button
+        android:id="@+id/stopService"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/stopSerivc"
+        android:textSize="20sp"/>
+    <Button
+        android:id="@+id/intentService"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/intentService"
+        android:textSize="20sp"/>
+
+</LinearLayout>
